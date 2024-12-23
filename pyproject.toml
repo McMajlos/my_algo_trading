@@ -14,4 +14,5 @@ dependencies = [
     "requests>=2.22.0",
     "scipy>=1.5.2",
     "xlsxwriter>=1.2.2",
+    "yfinance>=0.2.51",
 ]
